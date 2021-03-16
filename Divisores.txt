@@ -1,3 +1,4 @@
 El numero ingresado fue: 8 Y sus divisores son: 1, 2, 4, 8, 
 El numero ingresado fue: 19 Y sus divisores son: 1, 19, 
 El numero ingresado fue: 22 Y sus divisores son: 1, 2, 11, 22, 
+El numero ingresado fue: 11 Y sus divisores son: 1, 11, 
